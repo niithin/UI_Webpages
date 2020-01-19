@@ -1,2 +1,2 @@
 # UI_Webpages
-Initial User interface for the Company Websites developed using HTML,CSS and Bootstrap
+Initial User interface for different Company Websites developed using HTML,CSS and Bootstrap
